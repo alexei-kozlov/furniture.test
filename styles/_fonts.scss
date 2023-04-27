@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Cuprum Regular";
+    src: local("Cuprum Regular"), local("Cuprum-Regular"),
+    url("../fonts/Cuprum-Regular.woff2") format("woff2"),
+    url("../fonts/Cuprum-Regular.woff") format("woff");
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Proxima Nova Regular";
+    src: local("Proxima Nova Regular"), local("ProximaNova-Regular"),
+    url("../fonts/ProximaNova-Regular.woff2") format("woff2"),
+    url("../fonts/ProximaNova-Regular.woff") format("woff");
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Proxima Nova Bold";
+    src: local("Proxima Nova Bold"), local("ProximaNova-Bold"),
+    url("../fonts/ProximaNova-Bold.woff2") format("woff2"),
+    url("../fonts/ProximaNova-Bold.woff") format("woff");
+    font-style: normal;
+}

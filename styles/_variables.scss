@@ -1,0 +1,9 @@
+$primary-text-color: #1E2E36;
+$secondary-text-color: #FFFFFF;
+$primary-color: #44C697;
+$secondary-color: #BCBDBB;
+$promotion-color: #FF1B1B;
+
+@function url-variable-colour($colour) {
+    @return "%23" + str-slice("#{$colour}", 2, -1)
+}
